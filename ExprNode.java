@@ -31,8 +31,9 @@ public  class ExprNode {
   
   
   
-  
-  
+  //sdasdsadadsadsa
+  //dsadsadsadsadsadsd
+  //dsadsadsadsadasdasds
   
   public double avg(double... num) {
     double sum = 0;
